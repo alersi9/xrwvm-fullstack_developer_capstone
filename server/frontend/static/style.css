@@ -124,3 +124,10 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.divider {
+  border-left: 2px solid #000;
+  height: 280px;
+  margin: auto 160px;
+}
+
